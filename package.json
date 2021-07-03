@@ -1,0 +1,23 @@
+{
+  "name": "tryout-sqlite",
+  "version": "1.0.0",
+  "description": "TRY OUT of sqlite database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudBuchholz/tryout-sqlite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudBuchholz/tryout-sqlite/issues"
+  },
+  "homepage": "https://github.com/ArnaudBuchholz/tryout-sqlite#readme",
+  "dependencies": {
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  }
+}
